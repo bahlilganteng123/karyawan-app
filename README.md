@@ -15,7 +15,8 @@ Aplikasi sederhana untuk mengelola data karyawan menggunakan Laravel.
 - Tailwind CSS
 
 ## 📸 Screenshot
-
+ <img src="img1.jpg">
+ <img src="img2.jpg">
 
 
 ## 🚀 Cara Menjalankan
