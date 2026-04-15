@@ -1,13 +1,27 @@
-# Aplikasi Karyawan Laravel
+# 💼 Aplikasi Karyawan Laravel
 
-## Fitur
+Aplikasi sederhana untuk mengelola data karyawan menggunakan Laravel.
 
-- Relasi Karyawan & Jabatan
-- Join data (Eloquent)
-- Search
-- UI modern
+## ✨ Fitur
+- CRUD Karyawan
+- Relasi dengan Jabatan
+- Join data (Eloquent ORM)
+- Fitur Search
+- UI modern dengan Tailwind CSS
 
-## Cara menjalankan
+## 🛠️ Teknologi
+- Laravel
+- MySQL
+- Tailwind CSS
 
-- composer install
-- php artisan serve
+## 📸 Screenshot
+
+
+## 🚀 Cara Menjalankan
+1. Clone repo
+2. composer install
+3. php artisan migrate
+4. php artisan serve
+
+## 👤 Author
+Dhafin Naufal
