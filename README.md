@@ -17,6 +17,7 @@ Aplikasi sederhana untuk mengelola data karyawan menggunakan Laravel.
 ## 📸 Screenshot
 
 
+
 ## 🚀 Cara Menjalankan
 1. Clone repo
 2. composer install
